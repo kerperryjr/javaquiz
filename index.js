@@ -45,4 +45,20 @@ quizDiv.addEventListener("click", function(event){
 
 })
 
+//needs finish button that makes the game say function gameover
 
+let GameOver = "Game Over";
+
+function sayGameOver() {
+    console.log(GameOver);
+    
+    
+    
+    return;
+
+};
+
+
+//needs button that lets you type intials for highscore sheet
+
+//also needs a button that takes to highscore page
